@@ -1,0 +1,1 @@
+https://github.com/soubhik93/feign-hysterix-example.git
